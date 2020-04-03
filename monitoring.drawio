@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T13:58:36.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="F6nZtGebAL8o8XvY2Vz8" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-03T14:00:18.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="pyX64XZbBZVLf_E70i9s" version="12.9.6" type="github">
   <diagram id="8jw519kHLIe-T5wEmIG4" name="Page-1">
     <mxGraphModel dx="1145" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,11 +7,8 @@
         <mxCell id="8M1PxrnFKsvRRrVdLFiL-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="-540" width="330" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="8M1PxrnFKsvRRrVdLFiL-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-540" width="330" height="330" as="geometry" />
-        </mxCell>
         <mxCell id="AeGNpR7aDOQoZc7-FQpF-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="49.99999999999999" y="-1107.2" width="464.4" height="464.4" as="geometry" />
+          <mxGeometry x="50" y="-1107.2" width="530" height="530" as="geometry" />
         </mxCell>
         <mxCell id="AeGNpR7aDOQoZc7-FQpF-7" value="Kubernetes&#xa;Engine" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=container_engine" parent="1" vertex="1">
           <mxGeometry x="350" y="-1080" width="110" height="100" as="geometry" />
@@ -181,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8M1PxrnFKsvRRrVdLFiL-46" value="Alert Manager 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-810.9" width="100" height="20" as="geometry" />
+          <mxGeometry x="890" y="-957.65" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8M1PxrnFKsvRRrVdLFiL-47" value="Alert Manager 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="-330" width="100" height="20" as="geometry" />
@@ -200,6 +197,12 @@
             <mxPoint x="1000" y="-460" as="sourcePoint" />
             <mxPoint x="1185.0000000000002" y="-577.4999999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8M1PxrnFKsvRRrVdLFiL-56" value="Prometheus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450.5" y="-824.65" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8M1PxrnFKsvRRrVdLFiL-57" value="Prometheus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-340" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
